@@ -30,7 +30,7 @@ To stop the container:
 docker stop my-php-apache
 ```
 
-## Examples
+## Sample Codes
 
-- https://kinsta.com/blog/php-7-2/
-- http://devpark.pl/what-changed-in-php-7-2/
+- [https://kinsta.com/blog/php-7-2/](https://kinsta.com/blog/php-7-2/)
+- [http://devpark.pl/what-changed-in-php-7-2/](http://devpark.pl/what-changed-in-php-7-2/)
