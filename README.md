@@ -32,4 +32,5 @@ docker stop my-php-apache
 
 ## Examples
 
-To be updated.
+- https://kinsta.com/blog/php-7-2/
+- http://devpark.pl/what-changed-in-php-7-2/
